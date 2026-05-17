@@ -1,0 +1,61 @@
+:root {
+    /* Background */
+    --bg-main: url('assets/background.jpg');
+    
+    /* Playlist Assets */
+    --playlist-description-gif: url('assets/playlist/description-gif.gif');
+    --playlist-profile: url('assets/playlist/header-profile.png');
+    
+    /* Hero Assets */
+    --hero-profile-background: url('assets/hero/profile-background.png');
+    --hero-profile: url('assets/hero/profile.png');
+    --hero-title-pattern: url('assets/hero/title-pattern.jpg');
+    
+    /* About Assets */
+    --about-personality-pattern: url('assets/about/pattern.gif');
+    --about-side-image: url('assets/about/side-image.jpg');
+    --about-description-1: url('assets/about/description1.gif');
+    --about-description-2: url('assets/about/description2.gif');
+    --about-description-3: url('assets/about/description3.gif');
+    --about-description-4: url('assets/about/description4.gif');
+    --about-description-5: url('assets/about/description5.gif');
+    --about-description-6: url('assets/about/description6.gif');
+    --about-description-7: url('assets/about/description7.gif');
+    
+    /* Story Assets */
+    --story-backstory-1: url('assets/story/backstory1.jpg');
+    
+    /* Moodboard Assets */
+    --moodboard-photo-1: url('assets/moodboard/mood-photo1.jpg');
+    --moodboard-photo-2: url('assets/moodboard/mood-photo2.jpg');
+    --moodboard-photo-3: url('assets/moodboard/mood-photo3.jpg');
+    --moodboard-photo-4: url('assets/moodboard/mood-photo4.jpg');
+    --moodboard-photo-5: url('assets/moodboard/mood-photo5.jpg');
+    --moodboard-photo-6: url('assets/moodboard/mood-photo6.jpg');
+    --moodboard-photo-7: url('assets/moodboard/mood-photo7.jpg');
+    --moodboard-photo-8: url('assets/moodboard/mood-photo8.jpg');
+    --moodboard-photo-9: url('assets/moodboard/mood-photo9.jpg');
+    --moodboard-photo-10: url('assets/moodboard/mood-photo10.jpg');
+    --moodboard-photo-11: url('assets/moodboard/mood-photo11.jpg');
+    --moodboard-photo-12: url('assets/moodboard/mood-photo12.jpg');
+    --moodboard-photo-13: url('assets/moodboard/mood-photo13.jpg');
+    --moodboard-photo-14: url('assets/moodboard/mood-photo14.jpg');
+    --moodboard-photo-15: url('assets/moodboard/mood-photo15.jpg');
+    --moodboard-photo-16: url('assets/moodboard/mood-photo16.jpg');
+    --moodboard-photo-17: url('assets/moodboard/mood-photo17.jpg');
+    --moodboard-photo-18: url('assets/moodboard/mood-photo18.jpg');
+    --moodboard-photo-19: url('assets/moodboard/mood-photo19.jpg');
+    --moodboard-photo-20: url('assets/moodboard/mood-photo20.jpg');
+    --moodboard-photo-21: url('assets/moodboard/mood-photo21.jpg');
+    --moodboard-photo-22: url('assets/moodboard/mood-photo22.jpg');
+    --moodboard-photo-23: url('assets/moodboard/mood-photo23.jpg');
+    --moodboard-photo-24: url('assets/moodboard/mood-photo24.jpg');
+    --moodboard-photo-25: url('assets/moodboard/mood-photo25.jpg');
+    
+    /* Playlist Assets */
+    --playlist-track-1: url('assets/playlist/San princess mononoke.mp3');
+    --playlist-track-2: url('assets/playlist/An Endless Desert.mp3');
+    --playlist-track-3: url('assets/playlist/A Moment of Tranquility.mp3');
+    --playlist-track-4: url('assets/playlist/Run Free_320k.mp3');
+    --playlist-track-5: url('assets/playlist/Homeland.mp3');
+}

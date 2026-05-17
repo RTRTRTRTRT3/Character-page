@@ -1,0 +1,109 @@
+:root {
+  /* ===================================== HEADER ===================================== */
+  --page-title: "Character - Character Profile";
+
+  /* ===================================== ABOUT ===================================== */
+  /* Character Name */
+    --character-name: "Character Name";
+    --hero-description: "Short Description";
+
+    /* Descriptions */
+  --character-description: "Long description text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --character-description-2: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+    
+  /* Personality */
+  --character-slogan: "Character quote.";
+  --character-slogan-author: "quote author";
+  --personality-description: "Personality description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+
+  /* Information */
+  --character-gender: "No gender";
+  --character-role: "Character's role";
+  --character-origin: "Where they come from";
+  --character-traits: "Distant, Strong-spirited, Resilient";
+    
+/* Likes */
+  --preference-like-1: "Tranquillity";
+  --preference-like-2: "Rain";
+  --preference-like-3: "Worthy challenges";
+  --preference-like-4: "Stargazing";
+    
+/* Dislikes */
+  --preference-dislike-1: "Unnecessary violence";
+  --preference-dislike-2: "Crossing boundaries";
+  --preference-dislike-3: "Coffee";
+  --preference-dislike-4: "Ascended ones";
+    
+/* Trivia */
+  --trivia-1: "Character fact";
+  --trivia-2: "Character fact";
+  --trivia-3: "Character fact";
+  --trivia-4: "Character fact";
+  --trivia-5: "Character fact";
+    
+/* Personality Trait Bars */
+  --trait-serious-silly-width: 90%;
+  --trait-timid-brave-width: 90%;
+  --trait-reserved-social-width: 20%;
+  --trait-logical-emotional-width: 10%;
+  --trait-battleweak-battlesmart-width: 90%;
+
+  /* Story Content */
+  --renaissance-title: "01. Time Period";
+  --renaissance-text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  
+  --ascension-title: "02. Time Period";
+  --ascension-text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  
+  /* Relations */
+  --relation-octave-name: "Character1";
+  --relation-octave-type: "relationship";
+  --relation-octave-hearts: "❤︎❤︎♡♡♡";
+  --relation-octave-desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --relation-stars-type: "relationship";
+  --relation-stars-hearts: "❤︎❤︎♡♡♡";
+  --relation-stars-desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue..";
+  --relation-copper-ascension-name: "Character2 ";
+  --relation-copper-ascension-type: "relationship";
+  --relation-copper-ascension-hearts: "❤︎❤︎♡♡♡";
+  --relation-copper-ascension-desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue..";
+  --relation-coffee-ascension-name: "Character3";
+  --relation-coffee-ascension-type: "relationship";
+  --relation-coffee-ascension-hearts: "❤︎❤︎♡♡♡";
+  --relation-coffee-ascension-desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+
+  /* Dialogue - Copper Spire Ascension */
+  --relation-copper-ascension-dialogue1: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-copper-1-time: "00:00";
+  --relation-copper-ascension-dialogue2: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-copper-2-time: "00:00";
+  --relation-copper-ascension-dialogue3: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-copper-3-time: "00:00";
+  --relation-copper-ascension-dialogue4: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-copper-4-time: "00:00";
+  --relation-copper-ascension-dialogue5: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-copper-5-time: "00:00";
+
+  /* Dialogue - Coffee Ascension */
+  --relation-coffee-ascension-dialogue1: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-coffee-1-time: "00:00";
+  --relation-coffee-ascension-dialogue2: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-coffee-2-time: "00:00";
+  --relation-coffee-ascension-dialogue3: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-coffee-3-time: "00:00";
+  --relation-coffee-ascension-dialogue4: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.";
+  --dialogue-coffee-4-time: "00:00";
+
+  /* Playlist Tracks */
+  --track-1-name: "Voiceclaim: San";
+  --track-1-artist: "The Princess Mononoke";
+  --track-2-name: "Endless Desert";
+  --track-2-artist: "Alto's Odyssey";
+  --track-3-name: "Moment of Tranquility";
+  --track-3-artist: "Alto's Odyssey";
+  --track-4-name: "Run Free";
+  --track-4-artist: "Spirit: Stallion of the Cimarron";
+  --track-5-name: "Homeland";
+  --track-5-artist: "Spirit: Stallion of the Cimarron";
+
+  }
